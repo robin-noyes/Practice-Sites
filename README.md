@@ -1,6 +1,45 @@
 # Practice-Sites
+## DISCLAIMER MOST ALL OF THESE SITS INCLUDE LIVE SAMPLES.  DOWNLOAD AND PERFORM YOUR ANALYSIS ON A SYSTEM WITH NO PERSONAL DATA AND A DEVICE YOU DO NOT CARE ABOUT GETTING MALWARE.
 Practice cyber skills for cybersecurity challenges.
 
-- [Splunk Boss of the SOC](https://bots.splunk.com/login?redirect=/)
+- [AWESOME CTF Frameworks](https://github.com/apsdehal/awesome-ctf)
+- [CFREDs Computer Forensics Reference Data Sets](https://cfreds.nist.gov) NIST created data sets . Data includes file carving, mobile, IOT, Windows, memory, databases, disk images, and many more
+- [Challengs and CTF](https://aboutdfir.com/education/challenges-ctfs/) HUGE list of multiple different CTF and Challenge data source files for all kinds of techniques (memory, file carving, mobile, network, etc)
+- [CTF 101](https://ctf101.org) Beginner challenges for forensics, cryptography, web explotation, reverse engineering, and binary explotation.
+- [CTF Time](https://ctftime.org) A site to find current or future CTFs
 - [Cyber Defenders: Blue Team CTF Challenges](https://cyberdefenders.org/blueteam-ctf-challenges/)
+- [DarkSec](https://darkstar7471.com/resources.html) TryHackMe rooms list
+- [Digital Corpora Scenarios](https://digitalcorpora.org/corpora/scenarios/) Multiple real-world scenarios which include disk images, memory dumps, network traffic, and data from potable devies (mobile). Archives and categories sections contain additional data.
+- [Digital Forensics Research Workshops DRFWS](https://github.com/dfrws)
+- [Digitial Corpa Drive/Memory Image Files](https://digitalcorpora.org/corpora/)
+- [Distro Watch](https://distrowatch.com/) Live CD's/ISO Kali, Parrot, Kodachi,Tsurgi , BackBox, BlackArch, Predator, CAIN, etc)
+- [Dr Fu's Malware Reverse Engineering Tutorials](https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html)
+- [EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES)
+- [Forensics Challenges MindMap](https://www.amanhardikar.com/mindmaps/Practice.html) May contain old or non-working links.
+- [Github of PCAPs](https://github.com/markofu/pcaps)
+- [Hacker Forever](https://hackerforever.com/guest.php) Text-based browser game; play as white,grey,or black hat.
+- [Hacking Challenges MindMap](https://www.amanhardikar.com/mindmaps/Practice.html) May contain old or non-working links.
+- [Hacking Exposed Blog](https://www.hecfblog.com/2014/03/daily-blog-277-sample-forensic-images.html) Various system image files for forensics analysis.  CAUTION at least one DOES state it contains p0rn material.
+- [Local Privilege Escalation LPE Workshop](https://github.com/sagishahar/lpeworkshop?files=1)
+- [Malware Traffic](https://www.malware-traffic-analysis.net/) Malware pcaps, tutorials, github, and blog posts.
 - [MemLabs](https://github.com/stuxnet999/MemLabs)
+- [Mobile Images](https://thebinaryhick.blog/public_images/)
+- [NetSec PCAPS](https://www.netresec.com/?page=PcapFiles)
+- [Network Forenscis](https://forensicscontest.com/puzzles) Older DEFCON data sets.
+- [Over The Wire - Wargames](https://overthewire.org/wargames/)
+- [Root Me](https://www.root-me.org)
+- [S0urceIO](https://s0urce.io) Multi-plyaer web game
+- [SANS Holiday HHack Challenges](https://holidayhackchallenge.com/past-challenges/)
+- [Shell Strom](https://shell-storm.org/repo/CTF/) A huge list of various CTF challenges and files.
+- [Smash The Stack](https://www.smashthestack.org) Network wargaming challenges.
+- [Splunk Boss of the SOC live play](https://bots.splunk.com/login?redirect=/) You will need a Splunk account to access the files.
+- [Splunk BOTS (Boss of the Soc) V1](https://github.com/splunk/botsv1)
+- [Splunk BOTS (Boss of the Soc) V2](https://github.com/splunk/botsv2)
+- [Splunk BOTS (Boss of the Soc) V3](https://github.com/splunk/botsv3)
+- [Sumuri Paladin](https://sumuri.com/product-category/brands/paladin/) This is a forensics focused ISO.  It will appears as though there is a cost, change it to zero.
+- [Trace Labs OSINT VM](https://www.tracelabs.org/initiatives/osint-vm)
+- [VMs and Live CDs](https://www.amanhardikar.com/mindmaps/VMsandLiveCDs.html)
+- [VulnHUB](https://www.vulnhub.com)
+- [W3Challs](https://w3challs.com)
+- [Web App Exploit](https://google-gruyere.appspot.com)
+- [WireShark Captures](https://wiki.wireshark.org/SampleCaptures)
